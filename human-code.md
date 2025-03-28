@@ -28,8 +28,14 @@ Durante le vacanze ho fatto mille mila foto, ora come faccio a scegliere quella 
 
 ### Algoritmo
 
-- FINCHE' ( trovo filtro giusto )
-  - PER OGNI Filtro verifico la resa sulla foto
-    - SE ( Filtro mi piace )
-    - ALLORA Applico voto
-      -ALTRIMENTI scarto filtro
+- FINCHE' trovo filtro primo filtro con 3
+- Apro la galleria del cellulare
+- scelgo la foto da caricare
+- apro sezione filtri
+- PER OGNI Filtro verifico la resa sulla foto
+- SE Filtro
+- ha un buon contrasto do 1
+- ha un ottima luminosità do 1
+- rende i colori molto vividi do 1
+- SE filtro non raggiunge 3
+- ALLORA scarto il filtro
